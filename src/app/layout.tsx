@@ -33,9 +33,9 @@ export const metadata: Metadata = {
   authors: [{ name: "Mohammed Nasser Ibrahim" }],
   icons: {
     icon: [
-      { url: "/logo.svg", type: "image/svg+xml" },
+      { url: "/images/profile.jpg", type: "image/jpeg" },
     ],
-    apple: [{ url: "/logo.svg" }],
+    apple: [{ url: "/images/profile.jpg" }],
   },
   openGraph: {
     title: "Mohammed Nasser Ibrahim | Senior Backend Engineer",
